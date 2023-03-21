@@ -1,0 +1,45 @@
+// Cannon
+BITMAP,cannon_small,cannon_small.png
+BITMAP,bullet_small,bullet_small.png
+BITMAP,burst_small,burst.png
+BITMAP,balloon_small,balloon_small.png
+BITMAP,blue_sky,blue_sky.png
+
+
+
+// Planets
+//BITMAP,earth,earth.png
+//BITMAP,jupiter,jupiter.png
+//BITMAP,mars,mars.png
+//BITMAP,mercury,mercury.png
+//BITMAP,neptune,neptune.png
+//BITMAP,pluto,pluto.png
+//BITMAP,saturn,saturn.png
+//BITMAP,uranus,uranus.png
+//BITMAP,venus,venus.png
+// Power ups
+//BITMAP,shield,shield.png
+//BITMAP,power,power.png
+//BITMAP,potion,potion.png
+//BITMAP,fuel,fuel.png
+//BITMAP,drops,drops.png
+//BITMAP,diamond,diamond.png
+//BITMAP,star,star.png
+//BITMAP,cash,cash.png
+//BITMAP,nos,nos.png
+//BITMAP,level,level.png
+//BITMAP,bullet,bullet.png
+//BITMAP,coin,coin.png
+//BITMAP,battery,battery.png
+//BITMAP,heart,heart.png
+//BITMAP,muscle,muscle.png
+//BITMAP,time,time.png
+// Coins
+//BITMAP,silver_coin,silver_coin.png,26,26,6,1,6
+//BITMAP,bronse_coin,bronse_coin.png,26,26,6,1,6
+//BITMAP,gold_coin,gold_coin.png,26,26,6,1,6
+// Other
+//BITMAP,box,box.png
+//BITMAP,empty,empty.png
+//BITMAP,full,full.png
+//ANIM,coins,coin_animation.txt

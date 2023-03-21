@@ -1,0 +1,16 @@
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.csproj.AssemblyReference.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.AssemblyInfoInputs.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.AssemblyInfo.cs
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.csproj.CoreCompileInputs.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\bin\Debug\netcoreapp5.0\BalloonShooting.exe
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\bin\Debug\netcoreapp5.0\BalloonShooting.deps.json
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\bin\Debug\netcoreapp5.0\BalloonShooting.runtimeconfig.json
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\bin\Debug\netcoreapp5.0\BalloonShooting.runtimeconfig.dev.json
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\bin\Debug\netcoreapp5.0\BalloonShooting.dll
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\bin\Debug\netcoreapp5.0\BalloonShooting.pdb
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.dll
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\refint\BalloonShooting.dll
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.pdb
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\BalloonShooting.genruntimeconfig.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\BalloonShooting\obj\Debug\netcoreapp5.0\ref\BalloonShooting.dll

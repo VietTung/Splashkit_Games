@@ -1,0 +1,16 @@
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.exe
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.deps.json
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.runtimeconfig.json
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.runtimeconfig.dev.json
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.dll
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.pdb
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.csproj.AssemblyReference.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.AssemblyInfoInputs.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.AssemblyInfo.cs
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.csproj.CoreCompileInputs.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.dll
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\refint\RobotDodge.dll
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.pdb
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.genruntimeconfig.cache
+C:\Users\viett\Desktop\Deakin 2022\T1\SIT771\Code\RobotDodge\obj\Debug\netcoreapp5.0\ref\RobotDodge.dll

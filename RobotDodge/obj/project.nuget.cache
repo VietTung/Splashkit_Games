@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jZN6TFYUGuInJpGfI6urvSPZrd+hA+RjJqPRLExNiPZJIz5AwH1RK1jXFO6ejZuoxIZU2nGVoNrVrP+fLZX9cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viett\\Desktop\\Deakin 2022\\T1\\SIT771\\Code\\RobotDodge\\RobotDodge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
